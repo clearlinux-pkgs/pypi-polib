@@ -4,7 +4,7 @@
 #
 Name     : pypi-polib
 Version  : 1.1.1
-Release  : 39
+Release  : 40
 URL      : https://files.pythonhosted.org/packages/de/37/88ad2639cb4396755e87e97229d268bfa8bae0aeb6c7f9b01e9f49e10dff/polib-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/de/37/88ad2639cb4396755e87e97229d268bfa8bae0aeb6c7f9b01e9f49e10dff/polib-1.1.1.tar.gz
 Summary  : A library to manipulate gettext files (po and mo files).
@@ -73,7 +73,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656387669
+export SOURCE_DATE_EPOCH=1656394967
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
